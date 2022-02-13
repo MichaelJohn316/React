@@ -9,3 +9,5 @@ React 2021
 3-Components and Props
 4-Components from Data
 5-Adding Events
+6-Hooks and useState
+7-Hooks and useEffect
