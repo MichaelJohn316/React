@@ -11,3 +11,4 @@ React 2021
 5-Adding Events
 6-Hooks and useState
 7-Hooks and useEffect
+8-Refactoring & App Strategy
